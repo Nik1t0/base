@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Laptop",
+		"cost": 1200,
+		"articul": "LAP123",
+		"description": "A high-performance laptop with 16GB RAM and 512GB SSD.",
+		"rating": 4.5,
+		"image": "img/img1.jpg"
+	},
+	{
+		"name": "Smartphone",
+		"cost": 800,
+		"articul": "SMP456",
+		"description": "A latest model smartphone with a powerful processor and excellent camera.",
+		"rating": 4.7,
+		"image": "img/img2.jpg"
+	},
+	{
+		"name": "Headphones",
+		"cost": 150,
+		"articul": "HDP789",
+		"description": "Noise-cancelling over-ear headphones with long battery life.",
+		"rating": 4.3,
+		"image": "img/img2.jpg"
+	},
+	{
+		"name": "Smartwatch",
+		"cost": 200,
+		"articul": "SWT012",
+		"description": "A smartwatch with fitness tracking and heart rate monitoring features.",
+		"rating": 4.6,
+		"image": "smartwatch.jpg"
+	},
+	{
+		"name": "Tablet",
+		"cost": 300,
+		"articul": "TAB345",
+		"description": "A lightweight tablet with a high-resolution display and ample storage.",
+		"rating": 4.4,
+		"image": "tablet.jpg"
+	},
+	{
+		"name": "Camera",
+		"cost": 500,
+		"articul": "CAM678",
+		"description": "A digital camera with high resolution and various shooting modes.",
+		"rating": 4.5,
+		"image": "camera.jpg"
+	},
+	{
+		"name": "Printer",
+		"cost": 250,
+		"articul": "PRT901",
+		"description": "A wireless printer with fast printing speed and high-quality output.",
+		"rating": 4.2,
+		"image": "printer.jpg"
+	},
+	{
+		"name": "Monitor",
+		"cost": 350,
+		"articul": "MON234",
+		"description": "A 27-inch monitor with 4K resolution and vibrant colors.",
+		"rating": 4.6,
+		"image": "monitor.jpg"
+	},
+	{
+		"name": "Keyboard",
+		"cost": 100,
+		"articul": "KBD567",
+		"description": "A mechanical keyboard with customizable RGB lighting.",
+		"rating": 4.3,
+		"image": "keyboard.jpg"
+	},
+	{
+		"name": "Mouse",
+		"cost": 50,
+		"articul": "MSE890",
+		"description": "A wireless mouse with ergonomic design and adjustable DPI.",
+		"rating": 4.4,
+		"image": "mouse.jpg"
+	},
+	{
+		"name": "Speaker",
+		"cost": 120,
+		"articul": "SPK123",
+		"description": "A portable Bluetooth speaker with powerful sound and long battery life.",
+		"rating": 4.5,
+		"image": "speaker.jpg"
+	},
+	{
+		"name": "Router",
+		"cost": 180,
+		"articul": "RTR456",
+		"description": "A high-speed router with wide coverage and multiple connectivity options.",
+		"rating": 4.3,
+		"image": "router.jpg"
+	},
+	{
+		"name": "External Hard Drive",
+		"cost": 100,
+		"articul": "EHD789",
+		"description": "A portable external hard drive with 1TB storage capacity.",
+		"rating": 4.5,
+		"image": "external_hard_drive.jpg"
+	},
+	{
+		"name": "Webcam",
+		"cost": 70,
+		"articul": "WCM012",
+		"description": "A high-definition webcam with built-in microphone for video conferencing.",
+		"rating": 4.2,
+		"image": "webcam.jpg"
+	},
+	{
+		"name": "Charger",
+		"cost": 30,
+		"articul": "CHR345",
+		"description": "A fast charger with multiple ports for charging various devices simultaneously.",
+		"rating": 4.6,
+		"image": "charger.jpg"
+	}
+]
